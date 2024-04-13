@@ -1,7 +1,7 @@
 ﻿using _05Exercicio;
 using System.Collections;
 
-Console.WriteLine("## 04 - Exercício ArrayList ##\n");
+Console.WriteLine("## 05 - Exercício ArrayList ##\n");
 
 ArrayList lista = new ArrayList();
 
