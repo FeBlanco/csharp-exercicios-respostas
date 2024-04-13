@@ -1,6 +1,6 @@
 ﻿using _06Exercicio;
 
-Console.WriteLine("05 - Exercício - List e metodos Find & IEnumerable");
+Console.WriteLine("06 - Exercício - List e metodos Find & IEnumerable");
 
 List<Produto> Produtos = FonteDados.GetProdutos();
 ExibirProdutos(Produtos);
